@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrknB
-- 👀 I’m interested in Js, React, C#
-- 🌱 I’m currently learning Js, React, C#
-- 💞️ I’m looking to collaborate on Js, React, C#
+- 👀 I’m interested in Js, React
+- 🌱 I’m currently learning Js, React
+- 💞️ I’m looking to collaborate on Js, React
 - 📫 How to reach me  mail : fbozok26@gmail.com
 
 <!---
