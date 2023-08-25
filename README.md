@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm FurkanBozok</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **React, Vue, JS**
-
-- 🌱 I’m currently learning **React, Vue, JS**
-
-- 👯 I’m looking to collaborate on **React, Vue, JS**
-
-- 🤝 I’m looking for help with **React, Vue, JS**
-
-- 💬 Ask me about **React, Vue, JS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
