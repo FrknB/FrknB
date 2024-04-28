@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Furkan Bozok</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
-<br/>
+
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://instagram.com/bozok.furkan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bozok.furkan" height="50" width="50" /></a>      
 <a href="https://www.linkedin.com/in/furkanbozok/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-bozok-666409249/" height="50" width="50" /></a>
 </p>
-<h1 align="left">Languages and Tools:</h1>
+
 <br/>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left">  
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>   
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>   
