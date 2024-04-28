@@ -18,7 +18,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknb&show_icons=true&locale=en&layout=compact" alt="frknb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknb&show_icons=true&locale=en" alt="frknb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frknb&" alt="frknb" /></p>
