@@ -3,8 +3,8 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://instagram.com/bozok.furkan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bozok.furkan" height="50" width="50" /></a>
-   <a href="https://www.linkedin.com/in/furkanbozok/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-bozok-666409249/" height="50" width="50" /></a>
+<a href="https://instagram.com/bozok.furkan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bozok.furkan" height="50" width="50" /></a>   
+<a href="https://www.linkedin.com/in/furkanbozok/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-bozok-666409249/" height="50" width="50" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
