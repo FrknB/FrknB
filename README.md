@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/furkanbozok/" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
 </a>
+<a href="https://x.com/FurkanBozok13" target="_blank">
+   <img src="https://skillicons.dev/icons?i=twitter&perline=10" />
+</a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
