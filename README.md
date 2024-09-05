@@ -17,5 +17,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,js,react,netlify,figma,vscode&perline=10" />
   </a>
 </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknb&show_icons=true&locale=en&layout=compact" alt="frknb" /></p>
