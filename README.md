@@ -3,13 +3,13 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://instagram.com/bozok.furkan" target="_blank" style="text-decoration:none">
+<a href="https://instagram.com/bozok.furkan" target="_blank" style="text-decoration="none"">
    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
 </a>     
-<a href="https://www.linkedin.com/in/furkanbozok/" target="_blank"  style="text-decoration:none">
+<a href="https://www.linkedin.com/in/furkanbozok/" target="_blank"  style="text-decoration="none"">
    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
 </a>
-<a href="https://x.com/FurkanBozok13" target="_blank"  style="text-decoration:none">
+<a href="https://x.com/FurkanBozok13" target="_blank"  style="text-decoration="none"">
    <img src="https://skillicons.dev/icons?i=twitter&perline=10" />
 </a>
 </p>
