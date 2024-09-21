@@ -21,8 +21,5 @@
   </a>
 </p>
 <br>
-<p align="center>
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683042300883/cd2db6c5-65df-41cb-98a1-d8894d55d7de.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
-   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknb&show_icons=true&locale=en&layout=compact" alt="frknb" /></p>
